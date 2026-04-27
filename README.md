@@ -1,4 +1,3 @@
-
 # Application Crypto
 
 Ce projet contient deux fichiers principaux :
@@ -21,7 +20,7 @@ Ce projet contient deux fichiers principaux :
 ### Installation
 1. Clonez ce dépôt :
    ```bash
-   git clone <lien-du-repo>
+   git clone https://github.com/SalmaMoueddeb/Outil-Cryptographique.git
    cd Crypto
    ```
 2. (Optionnel) Créez et activez un environnement virtuel :
@@ -46,7 +45,8 @@ streamlit run crypto_app.py
 - Interagissez avec l'application selon vos besoins.
 
 ## Démo
-<!-- Ajoutez ici le lien de la démo ou des captures d'écran -->
+
+[lien de video demo](https://drive.google.com/file/d/171NlI_M3ylvjXJPTBOXeeCJmwqDgMH9O/view?usp=sharing)
 
 ## Déploiement
-<!-- Ajoutez ici le lien de déploiement et les instructions -->
+[Lien de l'interface](https://salmamoueddeb-outil-cryptographique-crypto-app-w6fupp.streamlit.app/)
